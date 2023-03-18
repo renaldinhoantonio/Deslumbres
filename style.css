@@ -15,19 +15,20 @@
 }
 
 :root{
-    --cor0:#f1ffe7;
+    --cor0:#ffffff;
     --cor1:#cdb4db;
     --cor2:#ffc8dd;
-    --cor3:#ffafcc;
-    --cor4:#bde0fe;
+    --cor3:#bde0fe;
+    --cor4:#ffafcc;
     --cor5:#a2d2ff;
+    --cor6:#000000;
     --fontpadrao:'permanent', serif;
     --fontedestaque: 'padrao';
 }
 
 body{
     background-color: var(--cor0);
-    height: 98vh;
+
 }
 
 header{
@@ -45,7 +46,7 @@ header{
 main{
     min-width: 400px;
     max-width: 720px;
-    background-color: var(--cor2);
+    background-color: var(--cor3);
     margin: auto;
     padding: 15px;
     border-top-right-radius: 30px;
@@ -69,7 +70,7 @@ main p{
 main a{
     text-decoration: none;
     color: var(--cor0);
-    background-color: var(--cor1);
+    background-color: var(--cor5);
     padding: 5px;
     border-radius: 3px;
 }
@@ -79,7 +80,7 @@ main audio{
 }
 
 main a:visited{
-    color: var(--cor0);
+    color: var(--cor4);
 }
 
 footer{
