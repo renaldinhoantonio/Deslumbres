@@ -45,7 +45,7 @@ header{
     text-shadow: 1px 1px 1px var(--cor6);
  }
  header p{
-    text-shadow: 1px 1px 1px var(--cor6);
+    text-shadow: 0px 0px 1px var(--cor6);
 
  }
 
