@@ -17,9 +17,7 @@
 :root{
     --cor0:#ffffff;
     --cor1:#cdb4db;
-    --cor2:#ffc8dd;
-    --cor3:#bde0fe;
-    --cor4:#ffafcc;
+    --cor3:#23001e;
     --cor5:#a2d2ff;
     --cor6:#000000;
     --fontpadrao:'permanent', serif;
@@ -32,12 +30,12 @@ body{
 }
 
 header{
-    background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
+    background-image: linear-gradient(to right, var(--cor3), var(--cor5));
     min-height: 100px;
     text-align: center;
     padding-top:40px;
     margin-bottom: 30px;
-    min-width: 400px;
+    min-width: 720px;
  }
 
  header h1{
