@@ -105,6 +105,10 @@ main a:visited{
     color: var(--cor6);
 }
 
+main blockquote{
+    text-align: center;
+}
+
 footer{
     color: var(--cor5);
     margin-top: 15px;
