@@ -61,7 +61,10 @@ header{
 main{
     min-width: 320px;
     max-width: 1080px;
-    background-color: var(--cor3);
+    /*background-color: var(--cor3);*/
+    background-image: url(imagens/minecraft.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: auto;
     padding: 15px;
     border-top-right-radius: 30px;
