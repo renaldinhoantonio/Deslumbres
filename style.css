@@ -48,7 +48,7 @@ header{
  }
  header p{
     text-shadow: 0px 0px 1px var(--cor6);
-    color:var(--cor0);
+    color:var(--cor2);
  }
 
 /*nav a{
