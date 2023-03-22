@@ -18,7 +18,7 @@
     --cor0:#ffffff;
     --cor1:#d4c77f;
     --cor3:#ffc857;
-    --cor5:#1f2041;
+    --cor5:#2b4570;
     --cor6:#000000;
     --fontpadrao:'permanent', serif;
     --fontedestaque: 'padrao', serif;
@@ -48,7 +48,7 @@ header{
  }
  header p{
     text-shadow: 0px 0px 1px var(--cor6);
-
+    color:var(--cor0);
  }
 
 /*nav a{
